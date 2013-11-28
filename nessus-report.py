@@ -18,6 +18,10 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 '''
 
+'''
+This script will parse a .nessus file for common fields and print their respective values.
+'''
+
 #!/usr/bin/env python
 
 import xml.etree.ElementTree as ET
